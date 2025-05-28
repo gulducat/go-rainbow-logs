@@ -1,2 +1,3 @@
 rainbow:
-	go build -o rainbow ./cmd/main.go
+	go build -o rainbow ./cmd/rainbow/
+

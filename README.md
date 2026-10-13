@@ -1,7 +1,7 @@
 # 🌈 rainbow 🌈
 
 ```
-go install github.com/gulducat/go-rainbow-logs/cmd/rainbow
+go install github.com/gulducat/go-rainbow-logs/cmd/rainbow@latest
 
 cat <<LOGS | rainbow
     2024-05-13T16:17:17.604-0400 [INFO]  client/gc.go:344: client.gc: marking allocation for GC: alloc_id=77e5e62e-9e61-93a0-bead-0e17de6a1027
